@@ -148,7 +148,7 @@ Using invoke livereload:
 
 ## Add a favicon:
 https://www.ionos.at/tools/favicon-generator
-https://favicon.io/   ...Can also use small letters for the icon.
+https://favicon.io/   ...Can also use lower case for the icon.
 
 https://stackoverflow.com/questions/31270373/how-to-add-a-favicon-to-a-pelican-blog
 
